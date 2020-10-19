@@ -1,0 +1,1694 @@
+,country_name,population,fatalities
+0,United States,16000,0.0
+1,United States,17288,0.0
+2,United States,15930,0.0
+3,Canada,42786,0.0
+4,United States,6903,0.0
+5,United States,6903,0.0
+6,United States,2540,0.0
+7,Colombia,440118,13.0
+8,Ecuador,15276,0.0
+9,Ecuador,117796,0.0
+10,Ecuador,5114,0.0
+11,United States,42409,0.0
+12,Mexico,1947,7.0
+13,Canada,812129,0.0
+14,Dominican Republic,13456,0.0
+15,United States,175396,0.0
+16,Guatemala,47247,5.0
+17,Jamaica,14400,0.0
+18,United States,2475,0.0
+19,Dominica,702,2.0
+20,United States,2868,0.0
+21,United States,9520,0.0
+22,United States,106769,0.0
+23,United States,51320,0.0
+24,United States,51320,0.0
+25,United States,1526,0.0
+26,Guatemala,2006,0.0
+27,Guatemala,18994,0.0
+28,Mexico,1414,6.0
+29,Trinidad and Tobago,17000,0.0
+30,Mexico,3191,3.0
+31,United States,1788,0.0
+32,Nicaragua,6315,0.0
+33,El Salvador,7797,0.0
+34,United States,1176,0.0
+35,United States,2689,0.0
+36,United States,12088,0.0
+37,Costa Rica,21947,0.0
+38,Dominica,16571,0.0
+39,United States,4518,0.0
+40,Guatemala,994938,3.0
+41,Mexico,3761,1.0
+42,Haiti,7294,0.0
+43,Costa Rica,3072,4.0
+44,Costa Rica,7014,14.0
+45,Costa Rica,26669,10.0
+46,Haiti,3951,23.0
+47,Jamaica,1371,0.0
+48,Colombia,9985,24.0
+49,Jamaica,2382,0.0
+50,Costa Rica,6540,0.0
+51,Dominican Republic,66784,3.0
+52,Haiti,1234742,0.0
+53,Jamaica,2634,1.0
+54,Jamaica,4085,0.0
+55,Jamaica,1088,0.0
+56,Mexico,4468,18.0
+57,Dominican Republic,3613,68.0
+58,Mexico,3183,5.0
+59,Jamaica,13671,0.0
+60,Trinidad and Tobago,0,0.0
+61,United States,3117,0.0
+62,United States,5042,0.0
+63,Dominican Republic,1200000,17.0
+64,Trinidad and Tobago,15968,3.0
+65,Trinidad and Tobago,0,0.0
+66,Trinidad and Tobago,0,0.0
+67,Puerto Rico,418140,0.0
+68,United States,3174,3.0
+69,Colombia,4892,0.0
+70,United States,4020,0.0
+71,United States,42808,0.0
+72,Mexico,1376457,1.0
+73,United States,59518,0.0
+74,United States,42808,0.0
+75,United States,1728,0.0
+76,United States,3451,0.0
+77,Ecuador,7309,7.0
+78,United States,3165,0.0
+79,Peru,53177,7.0
+80,United States,2620,0.0
+81,United States,3294,0.0
+82,United States,5091,0.0
+83,United States,4741,0.0
+84,United States,3541,0.0
+85,United States,4407,0.0
+86,Ecuador,1399814,0.0
+87,United States,8465,0.0
+88,United States,13470,0.0
+89,Peru,5044,0.0
+90,United States,2200,0.0
+91,United States,6447,0.0
+92,Jamaica,9450,0.0
+93,Haiti,1234742,3.0
+94,United States,27592,0.0
+95,United States,1813,0.0
+96,United States,1142,0.0
+97,United States,1698,0.0
+98,United States,1638,0.0
+99,United States,5723,0.0
+100,United States,6658,0.0
+101,Costa Rica,4108,0.0
+102,Colombia,1999979,27.0
+103,Guatemala,31329,1.0
+104,El Salvador,124694,0.0
+105,United States,11828,0.0
+106,United States,1031,0.0
+107,Guatemala,994938,8.0
+108,United States,466,0.0
+109,Colombia,1502,10.0
+110,United States,34457,0.0
+111,United States,13753,0.0
+112,United States,3191,0.0
+113,United States,51400,0.0
+114,United States,1919,0.0
+115,United States,16887,0.0
+116,Colombia,1374,4.0
+117,United States,1887,0.0
+118,Colombia,2214,8.0
+119,Guatemala,3682,21.0
+120,United States,2826,0.0
+121,United States,2991,0.0
+122,United States,3112,0.0
+123,United States,3068,0.0
+124,United States,1788,0.0
+125,United States,3068,0.0
+126,United States,1126,0.0
+127,United States,20292,0.0
+128,United States,6427,0.0
+129,United States,7979,0.0
+130,United States,1270,0.0
+131,Dominican Republic,13977,0.0
+132,Colombia,65565,0.0
+133,Colombia,55513,0.0
+134,United States,5236,0.0
+135,United States,1646,0.0
+136,Mexico,7182,1.0
+137,Dominican Republic,10457,8.0
+138,Haiti,137966,25.0
+139,Haiti,1234742,3.0
+140,Panama,1287,0.0
+141,United States,1192,0.0
+142,Jamaica,1821,7.0
+143,United States,1192,0.0
+144,Haiti,84961,26.0
+145,Jamaica,2382,0.0
+146,Costa Rica,10028,0.0
+147,United States,39880,0.0
+148,Trinidad and Tobago,8140,0.0
+149,United States,1406,0.0
+150,Nicaragua,5182,9.0
+151,Colombia,5385,0.0
+152,Costa Rica,34877,0.0
+153,Costa Rica,8292,0.0
+154,Saint Lucia,4574,0.0
+155,Costa Rica,6777,0.0
+156,Costa Rica,6540,0.0
+157,Guatemala,5987,0.0
+158,Honduras,4752,23.0
+159,Honduras,850848,29.0
+160,Barbados,1765,0.0
+161,Guatemala,1311,0.0
+162,Colombia,1999979,8.0
+163,Trinidad and Tobago,49031,1.0
+164,Venezuela,3000000,8.0
+165,Colombia,13223,10.0
+166,Panama,6123,8.0
+167,United States,9277,0.0
+168,Guatemala,18994,2.0
+169,United States,3148,0.0
+170,Trinidad and Tobago,8140,0.0
+171,Trinidad and Tobago,8140,0.0
+172,Trinidad and Tobago,12281,0.0
+173,United States,3841,0.0
+174,United States,5934,0.0
+175,United States,1150,0.0
+176,Mexico,12294193,2.0
+177,Dominican Republic,1457,0.0
+178,United States,5951,0.0
+179,Colombia,4444,5.0
+180,United States,2845,0.0
+181,United States,112488,0.0
+182,United States,1463,0.0
+183,Peru,0,12.0
+184,Peru,0,0.0
+185,United States,33433,0.0
+186,United States,20816,0.0
+187,United States,10062,0.0
+188,United States,1463,0.0
+189,United States,97385,0.0
+190,Colombia,59188,1.0
+191,United States,17916,0.0
+192,Brazil,70888,19.0
+193,Brazil,48901,3.0
+194,United States,777,0.0
+195,United States,2231,0.0
+196,United States,6903,0.0
+197,United States,18228,1.0
+198,United States,1142,0.0
+199,United States,42274,0.0
+200,United States,3776,0.0
+201,United States,2689,0.0
+202,United States,5338,0.0
+203,United States,31577,0.0
+204,United States,5911,0.0
+205,Trinidad and Tobago,26700,0.0
+206,Mexico,48518,0.0
+207,Haiti,66226,1.0
+208,United States,4529,0.0
+209,Mexico,228927,3.0
+210,Dominican Republic,4563,2.0
+211,Dominican Republic,23304,0.0
+212,United States,3410,0.0
+213,United States,3485,0.0
+214,United States,5802,0.0
+215,United States,1602,0.0
+216,United States,7609,0.0
+217,Ecuador,200421,3.0
+218,United States,2301,0.0
+219,United States,3944,0.0
+220,United States,45028,0.0
+221,United States,365,0.0
+222,Haiti,442156,4.0
+223,El Salvador,41504,23.0
+224,El Salvador,33767,4.0
+225,El Salvador,41504,0.0
+226,El Salvador,41504,0.0
+227,United States,20979,0.0
+228,Costa Rica,3981,1.0
+229,United States,27865,0.0
+230,United States,167674,0.0
+231,United States,7554,0.0
+232,United States,7554,0.0
+233,United States,3364,0.0
+234,United States,4862,0.0
+235,United States,2175,0.0
+236,Jamaica,1119,0.0
+237,Ecuador,25742,3.0
+238,United States,9277,0.0
+239,United States,1424,0.0
+240,United States,3552,0.0
+241,United States,1128,0.0
+242,United States,2633,0.0
+243,United States,2937,0.0
+244,United States,4577,0.0
+245,United States,7554,0.0
+246,United States,12714,0.0
+247,United States,305704,0.0
+248,United States,1212,0.0
+249,United States,2441,0.0
+250,United States,1255,0.0
+251,Peru,0,0.0
+252,Ecuador,9501,4.0
+253,United States,13905,0.0
+254,Mexico,505881,11.0
+255,Mexico,78950,2.0
+256,Mexico,2817,1.0
+257,Mexico,4943,3.0
+258,United States,1150,0.0
+259,Mexico,2968,11.0
+260,United States,5245,0.0
+261,United States,2203,0.0
+262,United States,4058,0.0
+263,Haiti,134815,4.0
+264,United States,29603,0.0
+265,United States,209924,0.0
+266,Dominica,702,0.0
+267,United States,305704,0.0
+268,United States,5951,0.0
+269,United States,2133,0.0
+270,United States,1260,0.0
+271,United States,6432,0.0
+272,United States,9916,0.0
+273,United States,3572,0.0
+274,United States,6397,0.0
+275,United States,2717,0.0
+276,United States,2410,0.0
+277,United States,620,0.0
+278,United States,7389,0.0
+279,United States,5918,0.0
+280,United States,2528,0.0
+281,United States,3944,0.0
+282,United States,1311,0.0
+283,United States,2264,0.0
+284,United States,1113,0.0
+285,United States,3944,0.0
+286,United States,47648,0.0
+287,United States,7612,0.0
+288,United States,195976,0.0
+289,United States,11051,0.0
+290,United States,11051,0.0
+291,United States,7794,0.0
+292,United States,1108,0.0
+293,Peru,0,12.0
+294,Peru,6865,28.0
+295,United States,25663,0.0
+296,Dominica,2608,0.0
+297,Dominica,702,0.0
+298,Dominica,2608,0.0
+299,Dominica,2608,0.0
+300,Dominica,1332,0.0
+301,Costa Rica,14448,0.0
+302,Colombia,130289,2.0
+303,Dominica,702,0.0
+304,Jamaica,2634,0.0
+305,Jamaica,4514,0.0
+306,Jamaica,44755,0.0
+307,Jamaica,2757,0.0
+308,Jamaica,14400,0.0
+309,United States,2694,0.0
+310,Costa Rica,1355,0.0
+311,United States,6845,0.0
+312,United States,1883,0.0
+313,United States,2912,0.0
+314,United States,4812,0.0
+315,United States,7720,0.0
+316,United States,31279,0.0
+317,United States,34681,0.0
+318,United States,777,0.0
+319,United States,365,0.0
+320,United States,2237,0.0
+321,United States,1732,0.0
+322,United States,3459,0.0
+323,United States,717,0.0
+324,United States,3191,0.0
+325,United States,717,0.0
+326,United States,4456,0.0
+327,United States,777,0.0
+328,United States,777,0.0
+329,United States,2237,0.0
+330,United States,2237,0.0
+331,United States,1090,0.0
+332,United States,1414,0.0
+333,United States,2203,0.0
+334,United States,6903,0.0
+335,United States,11129,0.0
+336,United States,11129,0.0
+337,United States,2165,0.0
+338,Ecuador,165216,3.0
+339,Colombia,2392877,0.0
+340,Mexico,1376457,0.0
+341,United States,2912,0.0
+342,United States,11129,0.0
+343,United States,4208,0.0
+344,United States,1883,0.0
+345,United States,51400,0.0
+346,Costa Rica,14448,0.0
+347,United States,872,0.0
+348,Colombia,16678,0.0
+349,United States,10062,0.0
+350,Guatemala,11913,4.0
+351,Colombia,313945,0.0
+352,Guatemala,31329,0.0
+353,Guatemala,71836,0.0
+354,Guatemala,97172,11.0
+355,Guatemala,15529,0.0
+356,Guatemala,994938,17.0
+357,Guatemala,1422,14.0
+358,Guatemala,2396,11.0
+359,Guatemala,9681,1.0
+360,Guatemala,47247,4.0
+361,Guatemala,11046,3.0
+362,Guatemala,69734,3.0
+363,United States,305704,0.0
+364,United States,4432,0.0
+365,United States,7609,0.0
+366,United States,12361,0.0
+367,United States,1654,0.0
+368,United States,67140,0.0
+369,United States,2868,0.0
+370,United States,5184,0.0
+371,Guatemala,6186,2.0
+372,United States,2617,0.0
+373,United States,10545,0.0
+374,Mexico,254472,1.0
+375,Honduras,850848,1.0
+376,United States,1041,0.0
+377,United States,1860,0.0
+378,Canada,33232,0.0
+379,United States,9432,0.0
+380,Honduras,850848,0.0
+381,United States,65870,0.0
+382,Guatemala,97172,5.0
+383,United States,49138,0.0
+384,Mexico,9570,3.0
+385,Mexico,128996,0.0
+386,United States,16887,0.0
+387,United States,9051,0.0
+388,United States,1320,0.0
+389,United States,1320,0.0
+390,United States,5955,0.0
+391,Trinidad and Tobago,8140,0.0
+392,Trinidad and Tobago,4342,0.0
+393,Trinidad and Tobago,49031,0.0
+394,Costa Rica,14448,0.0
+395,Colombia,88311,0.0
+396,United States,6427,0.0
+397,United States,2602,0.0
+398,United States,1344,0.0
+399,Trinidad and Tobago,8140,0.0
+400,Mexico,12294193,2.0
+401,Trinidad and Tobago,8140,0.0
+402,Colombia,2080,4.0
+403,Trinidad and Tobago,4342,0.0
+404,Trinidad and Tobago,157258,1.0
+405,Honduras,850848,3.0
+406,United States,25023,0.0
+407,Jamaica,8551,0.0
+408,United States,1497,0.0
+409,United States,42274,0.0
+410,United States,6427,0.0
+411,United States,6427,0.0
+412,United States,6427,0.0
+413,United States,6427,0.0
+414,United States,2826,0.0
+415,United States,2826,0.0
+416,United States,6427,0.0
+417,United States,9614,0.0
+418,United States,5046,0.0
+419,Nicaragua,16469,3.0
+420,Trinidad and Tobago,55419,0.0
+421,Mexico,1099,2.0
+422,Mexico,1701,2.0
+423,Nicaragua,2367,0.0
+424,Colombia,18739,0.0
+425,United States,51367,0.0
+426,Guatemala,473080,0.0
+427,Guatemala,473080,0.0
+428,Guatemala,67994,0.0
+429,Guatemala,1623,0.0
+430,Guatemala,2121,0.0
+431,Guatemala,2605,0.0
+432,Guatemala,5633,2.0
+433,Colombia,18739,0.0
+434,Honduras,2288,5.0
+435,United States,1655,0.0
+436,Guatemala,27690,25.0
+437,Guatemala,19115,4.0
+438,Guatemala,2090,1.0
+439,Guatemala,17918,1.0
+440,Guatemala,82370,10.0
+441,Guatemala,12088,5.0
+442,United States,178874,0.0
+443,Jamaica,1119,0.0
+444,Mexico,1324,2.0
+445,Trinidad and Tobago,3314,0.0
+446,United States,11285,0.0
+447,Venezuela,52564,7.0
+448,Mexico,9267,8.0
+449,United States,1424,0.0
+450,Canada,17016,0.0
+451,United States,6448,0.0
+452,El Salvador,5055,0.0
+453,Colombia,6940,4.0
+454,Colombia,1464,9.0
+455,Jamaica,1119,0.0
+456,Mexico,1813,11.0
+457,United States,3403,0.0
+458,Costa Rica,3624,0.0
+459,Jamaica,2046,0.0
+460,Jamaica,8551,0.0
+461,Jamaica,12873,0.0
+462,Mexico,3947,16.0
+463,Mexico,1088,3.0
+464,United States,1244,0.0
+465,Jamaica,8551,2.0
+466,Mexico,1096,2.0
+467,United States,1053,0.0
+468,Costa Rica,2833,0.0
+469,Costa Rica,2833,0.0
+470,Haiti,442156,3.0
+471,United States,1126,0.0
+472,United States,10519,0.0
+473,Honduras,1484,0.0
+474,Saint Vincent and the Grenadines,1680,0.0
+475,Dominica,1020,0.0
+476,Puerto Rico,944,0.0
+477,U.S. Virgin Islands,50601,0.0
+478,Colombia,1519,2.0
+479,Costa Rica,1355,2.0
+480,Haiti,134190,8.0
+481,Haiti,442156,2.0
+482,Cuba,132351,0.0
+483,United States,7715,0.0
+484,Honduras,1441,0.0
+485,Jamaica,2046,0.0
+486,Saint Vincent and the Grenadines,1680,0.0
+487,Saint Lucia,1131,0.0
+488,Saint Lucia,2918,2.0
+489,Saint Lucia,2918,2.0
+490,Saint Lucia,2870,0.0
+491,Saint Lucia,2918,0.0
+492,Saint Lucia,2918,0.0
+493,Trinidad and Tobago,15968,0.0
+494,Trinidad and Tobago,0,0.0
+495,Trinidad and Tobago,0,0.0
+496,Trinidad and Tobago,15067,0.0
+497,Trinidad and Tobago,0,0.0
+498,Trinidad and Tobago,17000,0.0
+499,Trinidad and Tobago,17000,0.0
+500,Costa Rica,12071,23.0
+501,Costa Rica,4255,3.0
+502,Costa Rica,3624,0.0
+503,Costa Rica,7301,0.0
+504,Costa Rica,4350,0.0
+505,Costa Rica,6777,0.0
+506,Costa Rica,22433,0.0
+507,Costa Rica,34877,0.0
+508,Costa Rica,7084,0.0
+509,Costa Rica,3734,0.0
+510,Costa Rica,3850,0.0
+511,Costa Rica,34877,0.0
+512,Costa Rica,5467,0.0
+513,Costa Rica,2107,0.0
+514,Cuba,48362,0.0
+515,Peru,147959,2.0
+516,Colombia,10895,4.0
+517,Colombia,1999979,2.0
+518,Colombia,36549,0.0
+519,Colombia,10175,4.0
+520,United States,2763,0.0
+521,Jamaica,2321,0.0
+522,Colombia,6224,5.0
+523,Colombia,6224,1.0
+524,Colombia,1256,2.0
+525,Colombia,2702,0.0
+526,Colombia,3032,0.0
+527,Colombia,4987,0.0
+528,Costa Rica,1355,0.0
+529,Venezuela,278890,1.0
+530,Venezuela,3000000,3.0
+531,Trinidad and Tobago,8140,0.0
+532,Trinidad and Tobago,8140,0.0
+533,Trinidad and Tobago,8140,0.0
+534,Trinidad and Tobago,8140,0.0
+535,Trinidad and Tobago,8140,0.0
+536,Trinidad and Tobago,8140,0.0
+537,Venezuela,0,1.0
+538,Venezuela,0,0.0
+539,Venezuela,0,2.0
+540,Venezuela,3000000,0.0
+541,Venezuela,244216,0.0
+542,Venezuela,57591,0.0
+543,Venezuela,3000000,1.0
+544,Venezuela,3000000,2.0
+545,Venezuela,191903,0.0
+546,Venezuela,3000000,0.0
+547,Venezuela,3000000,0.0
+548,Venezuela,3000000,1.0
+549,United States,4946,0.0
+550,United States,178874,0.0
+551,United States,3114,0.0
+552,Colombia,392939,91.0
+553,Trinidad and Tobago,10000,0.0
+554,Trinidad and Tobago,15968,0.0
+555,Trinidad and Tobago,15968,0.0
+556,Panama,1310,0.0
+557,Panama,1274,8.0
+558,United States,4862,0.0
+559,United States,24085,0.0
+560,United States,59518,0.0
+561,United States,10644,0.0
+562,United States,59518,0.0
+563,United States,53104,0.0
+564,United States,44199,0.0
+565,United States,4862,0.0
+566,United States,53104,0.0
+567,United States,4862,0.0
+568,United States,105328,0.0
+569,United States,23261,0.0
+570,United States,42808,0.0
+571,United States,42808,0.0
+572,United States,23261,0.0
+573,Colombia,6522,13.0
+574,United States,57065,0.0
+575,United States,193365,0.0
+576,United States,3454,0.0
+577,Peru,0,0.0
+578,Costa Rica,19092,0.0
+579,United States,485,0.0
+580,United States,145987,0.0
+581,United States,145987,0.0
+582,United States,485,0.0
+583,United States,1554,0.0
+584,United States,1150,0.0
+585,Ecuador,25742,0.0
+586,Ecuador,3778,2.0
+587,Jamaica,2046,0.0
+588,Jamaica,2757,0.0
+589,United States,1423,0.0
+590,Panama,1283,0.0
+591,Panama,8114,0.0
+592,United States,1873,0.0
+593,Colombia,1669,3.0
+594,United States,1241,0.0
+595,United States,9549,0.0
+596,United States,28142,0.0
+597,United States,19753,0.0
+598,Venezuela,52564,0.0
+599,United States,1244,0.0
+600,United States,35517,0.0
+601,United States,4456,0.0
+602,United States,2701,0.0
+603,United States,1036,0.0
+604,United States,1036,0.0
+605,United States,1836,0.0
+606,United States,207627,0.0
+607,United States,2681,0.0
+608,United States,4278,0.0
+609,United States,1482,0.0
+610,United States,1836,0.0
+611,United States,3541,0.0
+612,United States,1482,0.0
+613,United States,12548,0.0
+614,United States,1171,0.0
+615,United States,1592,0.0
+616,United States,3541,0.0
+617,United States,1009,0.0
+618,Colombia,35302,0.0
+619,United States,7775,0.0
+620,Colombia,721398,0.0
+621,United States,9277,0.0
+622,Colombia,357814,0.0
+623,United States,14807,0.0
+624,United States,2499,0.0
+625,United States,5677,0.0
+626,United States,20213,0.0
+627,United States,1554,0.0
+628,Colombia,1999979,4.0
+629,United States,3744,0.0
+630,Colombia,7279,0.0
+631,Colombia,7279,5.0
+632,Grenada,2256,0.0
+633,Grenada,3378,0.0
+634,Saint Vincent and the Grenadines,1680,0.0
+635,United States,5955,0.0
+636,Colombia,357814,0.0
+637,Colombia,35302,20.0
+638,United States,305704,0.0
+639,Colombia,10191,4.0
+640,United States,1929,0.0
+641,United States,1171,0.0
+642,Colombia,1227,11.0
+643,Colombia,1577,0.0
+644,United States,50005,0.0
+645,United States,1372,0.0
+646,United States,823,0.0
+647,United States,1482,0.0
+648,United States,9299,0.0
+649,United States,6170,0.0
+650,United States,24757,0.0
+651,United States,5912,0.0
+652,United States,3925,0.0
+653,United States,7489,0.0
+654,United States,5259,0.0
+655,United States,3035,0.0
+656,United States,8477,0.0
+657,Colombia,49169,2.0
+658,Colombia,8603,0.0
+659,Ecuador,23687,7.0
+660,United States,4028,0.0
+661,United States,3149,0.0
+662,United States,4582,0.0
+663,United States,4426,0.0
+664,United States,3234,0.0
+665,United States,4407,0.0
+666,United States,5955,0.0
+667,United States,2554,0.0
+668,United States,296943,0.0
+669,United States,15273,0.0
+670,United States,296943,0.0
+671,United States,1239,0.0
+672,United States,1084,0.0
+673,United States,2782,0.0
+674,United States,1302,0.0
+675,United States,4801,0.0
+676,United States,5417,0.0
+677,United States,14538,0.0
+678,United States,4407,0.0
+679,United States,1750,0.0
+680,United States,2764,0.0
+681,United States,1745,0.0
+682,United States,2184,0.0
+683,United States,2237,0.0
+684,United States,5099,0.0
+685,United States,14407,0.0
+686,United States,11585,0.0
+687,United States,5069,0.0
+688,United States,4407,0.0
+689,Colombia,3689,2.0
+690,United States,1190,0.0
+691,United States,25527,0.0
+692,United States,25527,0.0
+693,United States,25527,0.0
+694,United States,9011,0.0
+695,United States,1638,0.0
+696,Ecuador,1399814,5.0
+697,United States,2386,0.0
+698,United States,2386,0.0
+699,United States,9052,0.0
+700,Colombia,5411,0.0
+701,Costa Rica,1355,0.0
+702,United States,1928,0.0
+703,United States,51400,0.0
+704,United States,2676,0.0
+705,United States,11129,0.0
+706,United States,2165,0.0
+707,United States,11129,0.0
+708,United States,1543,0.0
+709,United States,3450,0.0
+710,United States,13663,0.0
+711,United States,7635,0.0
+712,United States,2614,0.0
+713,Colombia,2392877,0.0
+714,Colombia,8949,2.0
+715,Colombia,86387,0.0
+716,United States,1064,0.0
+717,Colombia,11265,1.0
+718,United States,49138,0.0
+719,United States,49138,0.0
+720,United States,49138,0.0
+721,United States,49138,0.0
+722,United States,49138,0.0
+723,United States,1542,0.0
+724,United States,5677,0.0
+725,United States,1440,0.0
+726,United States,27126,0.0
+727,United States,3050,0.0
+728,United States,1336,0.0
+729,United States,3330,0.0
+730,United States,305704,0.0
+731,United States,9128,0.0
+732,United States,1218,0.0
+733,United States,1218,0.0
+734,United States,18275,0.0
+735,United States,3112,0.0
+736,United States,8893,0.0
+737,United States,15335,0.0
+738,United States,5157,0.0
+739,United States,82684,0.0
+740,United States,113934,0.0
+741,United States,2521,0.0
+742,United States,27865,0.0
+743,United States,9052,0.0
+744,United States,1336,0.0
+745,United States,1182,0.0
+746,United States,9052,0.0
+747,Haiti,137966,0.0
+748,Haiti,18590,1.0
+749,Dominican Republic,9853,1.0
+750,Ecuador,3983,0.0
+751,United States,1079,0.0
+752,Colombia,8904,2.0
+753,Haiti,283052,13.0
+754,United States,5338,0.0
+755,United States,10780,0.0
+756,United States,1319,0.0
+757,United States,65883,0.0
+758,United States,1712,0.0
+759,United States,4389,0.0
+760,Mexico,4463,0.0
+761,United States,2733,0.0
+762,United States,1034,0.0
+763,Mexico,425148,0.0
+764,United States,15926,0.0
+765,United States,1509,0.0
+766,United States,15273,0.0
+767,Venezuela,0,0.0
+768,Venezuela,0,0.0
+769,United States,3165,0.0
+770,United States,6658,0.0
+771,United States,27126,0.0
+772,United States,15523,0.0
+773,Dominican Republic,2201941,1.0
+774,United States,3887,0.0
+775,United States,17444,0.0
+776,United States,17444,0.0
+777,United States,43888,0.0
+778,United States,43888,0.0
+779,Costa Rica,4185,0.0
+780,United States,1451,0.0
+781,United States,1451,0.0
+782,United States,4885,0.0
+783,United States,97385,0.0
+784,United States,97385,0.0
+785,United States,14797,0.0
+786,Mexico,73648,0.0
+787,Mexico,3294,0.0
+788,Mexico,1019,2.0
+789,United States,1320,0.0
+790,United States,9614,0.0
+791,United States,3165,0.0
+792,United States,1411,0.0
+793,United States,441,0.0
+794,United States,6447,0.0
+795,United States,2768,0.0
+796,United States,4456,0.0
+797,Mexico,1005,0.0
+798,Mexico,127235,0.0
+799,Mexico,165250,0.0
+800,Mexico,2817,0.0
+801,Mexico,6361,0.0
+802,United States,629,0.0
+803,United States,1297,0.0
+804,United States,3801,0.0
+805,United States,9614,0.0
+806,United States,9172,0.0
+807,United States,3263,0.0
+808,United States,637,0.0
+809,United States,3944,0.0
+810,United States,34681,0.0
+811,United States,2541,0.0
+812,United States,4933,0.0
+813,Bermuda,902,0.0
+814,United States,10082,0.0
+815,United States,2681,0.0
+816,United States,15311,0.0
+817,Guatemala,14100,15.0
+818,Costa Rica,34877,0.0
+819,Honduras,850848,2.0
+820,Colombia,1999979,6.0
+821,Colombia,240387,3.0
+822,United States,28857,0.0
+823,El Salvador,112158,32.0
+824,Mexico,16520,2.0
+825,Colombia,16225,5.0
+826,Trinidad and Tobago,157258,0.0
+827,Costa Rica,6784,0.0
+828,Trinidad and Tobago,8140,0.0
+829,Colombia,62170,4.0
+830,Colombia,357814,48.0
+831,Colombia,9309,0.0
+832,Dominican Republic,29481,0.0
+833,United States,5012,0.0
+834,Colombia,9309,0.0
+835,Colombia,54421,3.0
+836,United States,14770,0.0
+837,Colombia,5640,7.0
+838,Trinidad and Tobago,12281,0.0
+839,Trinidad and Tobago,19056,0.0
+840,Trinidad and Tobago,3314,0.0
+841,Trinidad and Tobago,8140,0.0
+842,Trinidad and Tobago,15968,0.0
+843,Trinidad and Tobago,3314,0.0
+844,Trinidad and Tobago,35000,0.0
+845,Trinidad and Tobago,15968,1.0
+846,Venezuela,3000000,2.0
+847,Colombia,1310,2.0
+848,Colombia,313945,6.0
+849,Colombia,8751,1.0
+850,Colombia,5976,5.0
+851,Colombia,2394,9.0
+852,Colombia,431781,1.0
+853,Colombia,9327,9.0
+854,Colombia,179583,0.0
+855,United States,2449,0.0
+856,United States,5338,0.0
+857,Trinidad and Tobago,15067,0.0
+858,Colombia,163007,3.0
+859,United States,5338,0.0
+860,United States,305704,0.0
+861,United States,4407,0.0
+862,United States,3165,0.0
+863,Peru,0,3.0
+864,United States,1256,0.0
+865,United States,31364,0.0
+866,United States,2020,0.0
+867,Ecuador,44751,20.0
+868,United States,8375,0.0
+869,United States,1461,0.0
+870,United States,6731,0.0
+871,Ecuador,14680,0.0
+872,Haiti,283052,6.0
+873,United States,2072,0.0
+874,Haiti,32645,2.0
+875,Colombia,9733,3.0
+876,Trinidad and Tobago,0,0.0
+877,Trinidad and Tobago,17000,0.0
+878,Colombia,130337,4.0
+879,United States,5338,0.0
+880,United States,2892,0.0
+881,United States,5955,0.0
+882,United States,66982,0.0
+883,Costa Rica,5745,0.0
+884,Guatemala,11657,1.0
+885,United States,9552,0.0
+886,Trinidad and Tobago,15067,0.0
+887,Costa Rica,7301,0.0
+888,Costa Rica,18231,0.0
+889,Mexico,262566,3.0
+890,United States,2450,0.0
+891,United States,1794,0.0
+892,United States,1655,0.0
+893,United States,9520,0.0
+894,United States,466,0.0
+895,United States,51367,0.0
+896,Trinidad and Tobago,8140,0.0
+897,Trinidad and Tobago,8140,0.0
+898,United States,1445632,0.0
+899,Jamaica,2321,0.0
+900,United States,17781,0.0
+901,United States,1247,0.0
+902,United States,1247,0.0
+903,United States,1247,0.0
+904,United States,3260,0.0
+905,Trinidad and Tobago,8140,0.0
+906,Trinidad and Tobago,49031,0.0
+907,United States,20979,0.0
+908,United States,2450,0.0
+909,United States,5858,0.0
+910,Colombia,9481,10.0
+911,Peru,0,13.0
+912,Costa Rica,10028,0.0
+913,United States,1213,1.0
+914,United States,20313,0.0
+915,United States,3260,0.0
+916,United States,305704,0.0
+917,United States,1192,0.0
+918,Panama,76643,2.0
+919,Jamaica,1119,0.0
+920,Colombia,2080,0.0
+921,United States,2991,0.0
+922,Dominican Republic,146000,0.0
+923,United States,305704,0.0
+924,Trinidad and Tobago,0,0.0
+925,Trinidad and Tobago,0,0.0
+926,Trinidad and Tobago,0,0.0
+927,Colombia,9829,5.0
+928,Canada,115760,0.0
+929,United States,2583,0.0
+930,United States,225366,0.0
+931,United States,1869,0.0
+932,United States,1150,0.0
+933,United States,178874,0.0
+934,United States,2138,0.0
+935,United States,3279,0.0
+936,United States,6123,0.0
+937,United States,2355,0.0
+938,United States,620,0.0
+939,United States,305704,0.0
+940,United States,1150,0.0
+941,Ecuador,12205,10.0
+942,United States,777,0.0
+943,United States,1443,0.0
+944,United States,1257,0.0
+945,United States,28015,0.0
+946,Brazil,83927,6.0
+947,United States,21785,0.0
+948,United States,20079,0.0
+949,United States,6903,0.0
+950,United States,67862,0.0
+951,United States,1461,0.0
+952,United States,1745,0.0
+953,United States,1427,0.0
+954,United States,23402,0.0
+955,Ecuador,165216,14.0
+956,United States,872,0.0
+957,Trinidad and Tobago,17000,0.0
+958,United States,1791,0.0
+959,United States,1171,0.0
+960,United States,28742,0.0
+961,United States,7848,1.0
+962,United States,18228,0.0
+963,United States,4227,0.0
+964,United States,2031,0.0
+965,United States,4407,0.0
+966,United States,1732,0.0
+967,United States,4227,0.0
+968,United States,1192,0.0
+969,United States,1424,0.0
+970,U.S. Virgin Islands,2743,0.0
+971,United States,2355,0.0
+972,United States,7848,0.0
+973,United States,2536,0.0
+974,United States,1312,0.0
+975,United States,19540,2.0
+976,Mexico,33196,7.0
+977,United States,17916,0.0
+978,Panama,1274,0.0
+979,Panama,3302,0.0
+980,Panama,76643,0.0
+981,United States,40633,0.0
+982,United States,1213,0.0
+983,Ecuador,26582,0.0
+984,United States,3124,0.0
+985,United States,1213,0.0
+986,United States,3554,0.0
+987,United States,1526006,0.0
+988,United States,1461,0.0
+989,Trinidad and Tobago,17758,0.0
+990,United States,1500,0.0
+991,United States,1213,0.0
+992,United States,1162,0.0
+993,United States,3897,0.0
+994,United States,2598,0.0
+995,United States,3231,0.0
+996,United States,5911,0.0
+997,United States,2868,0.0
+998,United States,1213,0.0
+999,United States,1418,0.0
+1000,United States,14324,0.0
+1001,United States,47376,0.0
+1002,United States,2450,0.0
+1003,United States,5565,0.0
+1004,United States,4992,0.0
+1005,United States,5338,0.0
+1006,United States,1655,0.0
+1007,United States,2588,0.0
+1008,United States,11372,0.0
+1009,United States,24922,0.0
+1010,United States,83393,0.0
+1011,United States,9520,0.0
+1012,United States,6123,0.0
+1013,United States,83393,0.0
+1014,United States,6123,0.0
+1015,United States,83393,0.0
+1016,United States,6123,0.0
+1017,United States,1241,0.0
+1018,United States,7609,0.0
+1019,United States,1932,0.0
+1020,United States,1932,0.0
+1021,United States,9796,0.0
+1022,United States,15523,0.0
+1023,United States,9796,0.0
+1024,United States,8053,0.0
+1025,United States,2231,0.0
+1026,United States,1241,0.0
+1027,United States,1770,0.0
+1028,United States,2199,0.0
+1029,United States,2231,0.0
+1030,Cuba,7205,0.0
+1031,United States,2193,0.0
+1032,United States,4992,0.0
+1033,United States,4992,0.0
+1034,United States,1779,0.0
+1035,United States,2450,0.0
+1036,United States,2450,0.0
+1037,United States,24085,0.0
+1038,United States,2450,0.0
+1039,United States,51400,0.0
+1040,United States,4051,0.0
+1041,United States,698,0.0
+1042,United States,1320,0.0
+1043,United States,1320,0.0
+1044,United States,9555,0.0
+1045,United States,47407,0.0
+1046,United States,15523,0.0
+1047,United States,1626,0.0
+1048,United States,15523,0.0
+1049,United States,2826,0.0
+1050,United States,1271,0.0
+1051,United States,7247,0.0
+1052,United States,5858,0.0
+1053,Colombia,130337,6.0
+1054,United States,2692,0.0
+1055,United States,1027,0.0
+1056,United States,2826,0.0
+1057,United States,6427,0.0
+1058,United States,4885,0.0
+1059,United States,1770,0.0
+1060,United States,3583,0.0
+1061,United States,28386,0.0
+1062,United States,28386,0.0
+1063,United States,7862,0.0
+1064,United States,7862,0.0
+1065,United States,1592,0.0
+1066,United States,1779,0.0
+1067,United States,1592,0.0
+1068,United States,1554,0.0
+1069,United States,2450,0.0
+1070,Colombia,3942,5.0
+1071,United States,40010,0.0
+1072,United States,2112,0.0
+1073,United States,2450,0.0
+1074,United States,2450,0.0
+1075,United States,1451,0.0
+1076,United States,3684,0.0
+1077,United States,3684,0.0
+1078,United States,15326,0.0
+1079,Panama,3302,4.0
+1080,United States,3260,0.0
+1081,United States,3260,0.0
+1082,United States,4992,1.0
+1083,United States,1706,0.0
+1084,United States,5366,0.0
+1085,United States,9015,0.0
+1086,United States,24085,0.0
+1087,United States,36441,0.0
+1088,United States,9555,0.0
+1089,United States,1048,0.0
+1090,United States,54255,0.0
+1091,United States,2129,0.0
+1092,United States,12714,0.0
+1093,United States,3552,0.0
+1094,Mexico,30607,3.0
+1095,Mexico,15800,1.0
+1096,Mexico,3198,9.0
+1097,Costa Rica,1015,0.0
+1098,United States,2325,0.0
+1099,Honduras,1146,6.0
+1100,United States,3112,0.0
+1101,United States,29603,0.0
+1102,United States,36441,0.0
+1103,United States,7979,0.0
+1104,United States,7979,0.0
+1105,United States,7979,0.0
+1106,United States,2129,0.0
+1107,United States,3276,0.0
+1108,United States,7960,0.0
+1109,United States,485,0.0
+1110,United States,1502,0.0
+1111,Guatemala,8164,0.0
+1112,United States,9796,0.0
+1113,United States,15523,0.0
+1114,United States,15523,0.0
+1115,United States,112488,0.0
+1116,United States,5204,0.0
+1117,Mexico,12920,14.0
+1118,United States,65870,0.0
+1119,United States,3260,0.0
+1120,United States,33433,0.0
+1121,United States,1470,0.0
+1122,United States,97385,3.0
+1123,United States,1690,0.0
+1124,United States,13813,0.0
+1125,United States,14206,0.0
+1126,United States,1094,0.0
+1127,United States,1094,0.0
+1128,United States,97385,0.0
+1129,United States,2400,0.0
+1130,United States,2400,0.0
+1131,United States,14206,0.0
+1132,United States,14206,0.0
+1133,United States,14206,0.0
+1134,United States,14206,0.0
+1135,United States,14206,0.0
+1136,United States,14206,0.0
+1137,United States,97385,0.0
+1138,United States,485,0.0
+1139,United States,485,0.0
+1140,United States,14206,0.0
+1141,United States,14206,0.0
+1142,United States,14206,0.0
+1143,United States,21785,0.0
+1144,United States,545852,0.0
+1145,United States,19908,0.0
+1146,Mexico,3630,1.0
+1147,Mexico,1236,3.0
+1148,Mexico,9720,3.0
+1149,United States,5858,0.0
+1150,Mexico,652136,0.0
+1151,Mexico,15800,12.0
+1152,Mexico,21407,71.0
+1153,Mexico,1252,0.0
+1154,Mexico,1123,0.0
+1155,Costa Rica,1015,0.0
+1156,Costa Rica,5745,0.0
+1157,Mexico,1543,13.0
+1158,Mexico,165250,4.0
+1159,United States,21785,0.0
+1160,United States,16887,0.0
+1161,United States,16887,0.0
+1162,United States,16887,0.0
+1163,United States,485,0.0
+1164,United States,485,0.0
+1165,Panama,69102,0.0
+1166,United States,2617,5.0
+1167,United States,19030,0.0
+1168,Costa Rica,7301,0.0
+1169,United States,27592,0.0
+1170,United States,1529,0.0
+1171,United States,9577,0.0
+1172,Costa Rica,7301,2.0
+1173,Trinidad and Tobago,17000,0.0
+1174,Trinidad and Tobago,17000,0.0
+1175,United States,1638,0.0
+1176,United States,50005,0.0
+1177,United States,1779,0.0
+1178,United States,1749,0.0
+1179,United States,1779,0.0
+1180,United States,1090,0.0
+1181,United States,1779,0.0
+1182,Trinidad and Tobago,15968,0.0
+1183,United States,2726,2.0
+1184,Mexico,1732,0.0
+1185,United States,20292,0.0
+1186,United States,1746,0.0
+1187,United States,11761,0.0
+1188,United States,777,0.0
+1189,Dominica,702,0.0
+1190,Saint Lucia,1906,0.0
+1191,Saint Vincent and the Grenadines,1680,5.0
+1192,Dominica,3633,0.0
+1193,Dominica,1416,0.0
+1194,United States,1394,0.0
+1195,Mexico,9085,0.0
+1196,United States,1600,0.0
+1197,United States,2406,0.0
+1198,United States,3822,0.0
+1199,United States,1424,0.0
+1200,Dominica,2184,0.0
+1201,United States,305704,0.0
+1202,United States,9643,0.0
+1203,United States,6845,0.0
+1204,United States,3255,0.0
+1205,United States,1081,2.0
+1206,Colombia,1091,5.0
+1207,Bermuda,902,0.0
+1208,United States,4407,0.0
+1209,United States,3255,0.0
+1210,United States,15273,0.0
+1211,United States,6051,0.0
+1212,United States,6903,0.0
+1213,United States,81,0.0
+1214,United States,2801,0.0
+1215,United States,2970,0.0
+1216,United States,4368,0.0
+1217,United States,3239,0.0
+1218,United States,3403,0.0
+1219,Colombia,247986,2.0
+1220,Colombia,9896,1.0
+1221,Colombia,571820,2.0
+1222,United States,305704,0.0
+1223,United States,51384,0.0
+1224,United States,16325,0.0
+1225,United States,2244,0.0
+1226,United States,3938,0.0
+1227,United States,3938,0.0
+1228,United States,34033,0.0
+1229,United States,305704,0.0
+1230,United States,5785,0.0
+1231,United States,3103,0.0
+1232,United States,1413,0.0
+1233,United States,4995,0.0
+1234,United States,620961,0.0
+1235,United States,3255,0.0
+1236,United States,1116,0.0
+1237,United States,1849,0.0
+1238,United States,305704,0.0
+1239,United States,1183,0.0
+1240,United States,7042,0.0
+1241,United States,2253,3.0
+1242,United States,1079,0.0
+1243,Guatemala,3554,6.0
+1244,United States,11071,0.0
+1245,United States,60797,0.0
+1246,United States,22958,0.0
+1247,United States,11071,0.0
+1248,United States,1097,0.0
+1249,United States,13394,0.0
+1250,United States,39309,0.0
+1251,United States,4058,0.0
+1252,United States,6661,0.0
+1253,United States,382578,0.0
+1254,United States,285068,0.0
+1255,United States,382578,0.0
+1256,United States,4058,0.0
+1257,United States,285068,0.0
+1258,United States,6661,0.0
+1259,United States,6661,0.0
+1260,Nicaragua,5827,0.0
+1261,Nicaragua,5827,0.0
+1262,Nicaragua,5827,0.0
+1263,Nicaragua,5827,0.0
+1264,Nicaragua,5827,0.0
+1265,Nicaragua,5827,0.0
+1266,Nicaragua,5827,0.0
+1267,Nicaragua,5827,0.0
+1268,Nicaragua,5827,0.0
+1269,Nicaragua,5827,0.0
+1270,Nicaragua,5827,0.0
+1271,Nicaragua,5827,0.0
+1272,Nicaragua,5827,0.0
+1273,Nicaragua,5827,0.0
+1274,United States,3722,0.0
+1275,United States,1325,0.0
+1276,United States,126326,0.0
+1277,Mexico,1512354,3.0
+1278,Honduras,75872,8.0
+1279,United States,10031,0.0
+1280,United States,416427,0.0
+1281,United States,9520,0.0
+1282,United States,5236,0.0
+1283,United States,1655,0.0
+1284,United States,3429,0.0
+1285,United States,5389,0.0
+1286,United States,6362,0.0
+1287,Honduras,15774,0.0
+1288,Costa Rica,3010,0.0
+1289,Colombia,26246,6.0
+1290,United States,1459,0.0
+1291,United States,9577,0.0
+1292,United States,1832,0.0
+1293,El Salvador,6393,0.0
+1294,United States,1864,0.0
+1295,United States,1515,0.0
+1296,United States,16322,0.0
+1297,Mexico,1018,0.0
+1298,Nicaragua,70013,9.0
+1299,United States,23717,0.0
+1300,Costa Rica,9687,0.0
+1301,Trinidad and Tobago,8568,0.0
+1302,United States,48174,3.0
+1303,Ecuador,15112,0.0
+1304,Colombia,11265,0.0
+1305,United States,18761,0.0
+1306,United States,14578,0.0
+1307,Costa Rica,14448,0.0
+1308,United States,2190,0.0
+1309,Jamaica,14400,0.0
+1310,United States,11547,0.0
+1311,United States,189885,0.0
+1312,United States,485,0.0
+1313,United States,9520,0.0
+1314,United States,49138,0.0
+1315,United States,81619,0.0
+1316,United States,44199,0.0
+1317,United States,23402,0.0
+1318,United States,23402,0.0
+1319,Canada,519949,0.0
+1320,Nicaragua,6315,7.0
+1321,United States,143911,0.0
+1322,United States,44199,0.0
+1323,United States,2593,0.0
+1324,United States,51367,0.0
+1325,United States,5236,0.0
+1326,United States,2717,0.0
+1327,United States,8329,0.0
+1328,United States,5236,0.0
+1329,United States,5236,0.0
+1330,United States,629,0.0
+1331,Ecuador,1399814,2.0
+1332,Ecuador,1399814,0.0
+1333,United States,49138,0.0
+1334,Ecuador,0,13.0
+1335,United States,485,0.0
+1336,United States,15023,0.0
+1337,United States,1176,0.0
+1338,United States,2325,0.0
+1339,United States,777,0.0
+1340,United States,2229,0.0
+1341,Costa Rica,9853,0.0
+1342,United States,1706,0.0
+1343,Colombia,3120,6.0
+1344,United States,4176,0.0
+1345,United States,19096,0.0
+1346,Guatemala,9986,6.0
+1347,Brazil,78050,0.0
+1348,Canada,3805,0.0
+1349,United States,1027,0.0
+1350,United States,1081,0.0
+1351,Guatemala,5370,0.0
+1352,Guatemala,67994,3.0
+1353,Guatemala,994938,0.0
+1354,United States,5405,0.0
+1355,Guatemala,7850,0.0
+1356,Guatemala,10469,0.0
+1357,Guatemala,1713,0.0
+1358,Guatemala,97172,1.0
+1359,Guatemala,2693,2.0
+1360,Guatemala,6438,2.0
+1361,Colombia,16707,2.0
+1362,Honduras,2389,0.0
+1363,Costa Rica,14448,0.0
+1364,Ecuador,276964,0.0
+1365,El Salvador,19095,0.0
+1366,El Salvador,39361,1.0
+1367,Ecuador,15276,3.0
+1368,El Salvador,7358,0.0
+1369,El Salvador,15446,0.0
+1370,El Salvador,2654,0.0
+1371,El Salvador,6393,0.0
+1372,El Salvador,5773,3.0
+1373,El Salvador,124694,0.0
+1374,El Salvador,33767,0.0
+1375,Mexico,9277,0.0
+1376,Honduras,1043,0.0
+1377,Peru,0,0.0
+1378,Honduras,1759,1.0
+1379,Nicaragua,2771,1.0
+1380,Nicaragua,2771,0.0
+1381,Nicaragua,13451,0.0
+1382,Costa Rica,26594,0.0
+1383,Costa Rica,0,0.0
+1384,Costa Rica,0,0.0
+1385,Costa Rica,34877,0.0
+1386,Panama,11245,0.0
+1387,Panama,1908,0.0
+1388,Panama,19782,0.0
+1389,Panama,1232,0.0
+1390,Panama,321501,0.0
+1391,Panama,2957,0.0
+1392,Panama,9169,0.0
+1393,Dominican Republic,0,0.0
+1394,Dominican Republic,4393,0.0
+1395,Puerto Rico,12036,0.0
+1396,Puerto Rico,4040,0.0
+1397,Puerto Rico,5080,0.0
+1398,Puerto Rico,5080,0.0
+1399,Puerto Rico,4555,0.0
+1400,Haiti,134815,1.0
+1401,Haiti,134815,3.0
+1402,United States,1081,0.0
+1403,Costa Rica,34877,0.0
+1404,United States,14236,0.0
+1405,Costa Rica,0,0.0
+1406,United States,8987,0.0
+1407,United States,3884,0.0
+1408,United States,3255,0.0
+1409,United States,1416,0.0
+1410,United States,1706,0.0
+1411,United States,7622,0.0
+1412,United States,1090,0.0
+1413,United States,1090,0.0
+1414,United States,4028,0.0
+1415,United States,717,0.0
+1416,United States,3191,0.0
+1417,United States,1745,0.0
+1418,United States,1631,0.0
+1419,United States,51400,0.0
+1420,United States,1638,0.0
+1421,United States,1779,0.0
+1422,United States,2406,0.0
+1423,Peru,0,0.0
+1424,Peru,0,0.0
+1425,United States,2237,0.0
+1426,United States,3191,0.0
+1427,United States,1090,0.0
+1428,United States,2139,0.0
+1429,United States,4456,0.0
+1430,United States,1344,0.0
+1431,United States,9318,0.0
+1432,United States,3286,0.0
+1433,United States,3435,0.0
+1434,United States,777,0.0
+1435,United States,5614,0.0
+1436,United States,1021,0.0
+1437,United States,1747,1.0
+1438,United States,2672,0.0
+1439,United States,195976,0.0
+1440,United States,5955,0.0
+1441,United States,3846,0.0
+1442,United States,51400,0.0
+1443,United States,3191,0.0
+1444,United States,3191,0.0
+1445,United States,66982,0.0
+1446,United States,2801,0.0
+1447,United States,6903,0.0
+1448,United States,16325,0.0
+1449,United States,3924,0.0
+1450,Ecuador,13035,0.0
+1451,Ecuador,117796,0.0
+1452,Ecuador,18565,0.0
+1453,Ecuador,276964,0.0
+1454,United States,717,0.0
+1455,Colombia,4350,0.0
+1456,Colombia,6428,92.0
+1457,United States,12943,0.0
+1458,United States,2620,0.0
+1459,United States,6900,0.0
+1460,Costa Rica,3010,0.0
+1461,United States,2953,0.0
+1462,United States,2739,0.0
+1463,United States,1432,0.0
+1464,United States,2683,0.0
+1465,United States,9520,0.0
+1466,United States,3684,0.0
+1467,United States,20978,0.0
+1468,United States,1233,0.0
+1469,United States,23330,0.0
+1470,Colombia,1972,0.0
+1471,United States,1569,0.0
+1472,United States,7247,0.0
+1473,United States,12088,0.0
+1474,Costa Rica,7014,0.0
+1475,United States,1021,0.0
+1476,United States,1320,0.0
+1477,United States,146199,0.0
+1478,United States,112488,0.0
+1479,United States,6025,0.0
+1480,United States,39223,0.0
+1481,United States,3009,0.0
+1482,United States,857,0.0
+1483,United States,1114,0.0
+1484,United States,18867,0.0
+1485,United States,416427,0.0
+1486,United States,1271,0.0
+1487,United States,3546,0.0
+1488,United States,3582,0.0
+1489,United States,3582,0.0
+1490,United States,2139,0.0
+1491,Canada,22625,0.0
+1492,Mexico,1173,0.0
+1493,United States,6680,0.0
+1494,United States,1012,0.0
+1495,United States,3744,0.0
+1496,United States,2617,0.0
+1497,United States,4113,0.0
+1498,United States,637,0.0
+1499,United States,2304,0.0
+1500,United States,1293,0.0
+1501,United States,2676,0.0
+1502,United States,4456,0.0
+1503,United States,2139,0.0
+1504,United States,8195,0.0
+1505,United States,3255,0.0
+1506,United States,9486,0.0
+1507,United States,2633,0.0
+1508,United States,5439,0.0
+1509,United States,13450,0.0
+1510,United States,1746,0.0
+1511,Canada,2052,0.0
+1512,United States,2325,0.0
+1513,United States,6903,0.0
+1514,United States,3255,0.0
+1515,United States,31364,0.0
+1516,United States,5245,0.0
+1517,United States,486,0.0
+1518,United States,3255,0.0
+1519,United States,4456,0.0
+1520,United States,1860,0.0
+1521,United States,1526,0.0
+1522,United States,1482,0.0
+1523,United States,13175,0.0
+1524,United States,6303,0.0
+1525,United States,1770,0.0
+1526,United States,2085,0.0
+1527,Costa Rica,1355,0.0
+1528,Costa Rica,0,0.0
+1529,United States,6903,0.0
+1530,United States,1358,0.0
+1531,United States,3255,0.0
+1532,United States,565,0.0
+1533,United States,994,0.0
+1534,United States,1036,0.0
+1535,United States,1551,0.0
+1536,United States,6097,0.0
+1537,United States,1227,0.0
+1538,United States,1009,0.0
+1539,United States,1009,0.0
+1540,United States,17916,0.0
+1541,United States,6903,0.0
+1542,United States,57065,0.0
+1543,United States,20292,0.0
+1544,United States,1502,0.0
+1545,United States,10109,0.0
+1546,United States,20292,0.0
+1547,United States,1006,0.0
+1548,United States,5338,0.0
+1549,United States,12790,0.0
+1550,United States,51367,0.0
+1551,United States,1638,0.0
+1552,United States,1318,0.0
+1553,United States,1222,0.0
+1554,United States,1344,0.0
+1555,United States,416427,0.0
+1556,Guatemala,67994,280.0
+1557,United States,7848,0.0
+1558,Guatemala,67994,0.0
+1559,Guatemala,3634,0.0
+1560,Guatemala,2680,0.0
+1561,United States,193365,0.0
+1562,United States,1443,0.0
+1563,United States,3165,0.0
+1564,Colombia,8044,0.0
+1565,Ecuador,1399814,0.0
+1566,United States,7979,0.0
+1567,Guatemala,28492,0.0
+1568,Guatemala,16494,0.0
+1569,Guatemala,473080,0.0
+1570,Guatemala,141455,0.0
+1571,Guatemala,3588,0.0
+1572,Guatemala,2605,0.0
+1573,Guatemala,994938,0.0
+1574,Guatemala,994938,0.0
+1575,Guatemala,994938,0.0
+1576,Guatemala,994938,0.0
+1577,Guatemala,994938,0.0
+1578,Guatemala,994938,0.0
+1579,Guatemala,994938,0.0
+1580,Guatemala,994938,0.0
+1581,Guatemala,994938,0.0
+1582,Guatemala,79759,2.0
+1583,Guatemala,97172,0.0
+1584,Guatemala,97172,0.0
+1585,Mexico,1042,0.0
+1586,Mexico,2500,0.0
+1587,Guatemala,3214,0.0
+1588,Guatemala,4671,1.0
+1589,Guatemala,11121,0.0
+1590,Guatemala,122194,0.0
+1591,Guatemala,2605,0.0
+1592,Belize,13381,0.0
+1593,El Salvador,10095,0.0
+1594,Guatemala,45654,0.0
+1595,El Salvador,124694,0.0
+1596,El Salvador,124694,0.0
+1597,El Salvador,9936,0.0
+1598,Honduras,1160,0.0
+1599,Costa Rica,26047,0.0
+1600,Mexico,1005,6.0
+1601,Honduras,1438,0.0
+1602,Honduras,850848,0.0
+1603,Honduras,1164,0.0
+1604,Honduras,1199,1.0
+1605,Panama,0,0.0
+1606,Panama,1146,1.0
+1607,Panama,29607,0.0
+1608,Panama,0,0.0
+1609,Honduras,1389,0.0
+1610,Honduras,4673,1.0
+1611,Honduras,1470,5.0
+1612,Honduras,27753,0.0
+1613,Honduras,27753,0.0
+1614,Honduras,1340,1.0
+1615,Honduras,1463,0.0
+1616,Honduras,1452,0.0
+1617,Honduras,1416,0.0
+1618,Honduras,2295,0.0
+1619,Honduras,1811,0.0
+1620,Mexico,652136,0.0
+1621,Honduras,1817,0.0
+1622,Honduras,2188,0.0
+1623,Honduras,1121,0.0
+1624,Mexico,1732,0.0
+1625,Nicaragua,6955,0.0
+1626,Nicaragua,51073,0.0
+1627,Jamaica,12873,0.0
+1628,Jamaica,13671,0.0
+1629,Jamaica,14400,0.0
+1630,Nicaragua,1257,0.0
+1631,Nicaragua,1257,0.0
+1632,Nicaragua,1902,0.0
+1633,Nicaragua,6315,0.0
+1634,Mexico,1201,0.0
+1635,Nicaragua,16056,0.0
+1636,Nicaragua,2111,0.0
+1637,Honduras,850848,0.0
+1638,Honduras,1449,0.0
+1639,Honduras,2055,0.0
+1640,Honduras,850848,0.0
+1641,Costa Rica,5745,0.0
+1642,Costa Rica,47494,1.0
+1643,Costa Rica,11853,1.0
+1644,Panama,993,0.0
+1645,Costa Rica,4060,0.0
+1646,Costa Rica,6784,0.0
+1647,Costa Rica,26594,0.0
+1648,Costa Rica,11680,0.0
+1649,Costa Rica,335007,0.0
+1650,Costa Rica,5467,0.0
+1651,Costa Rica,8292,0.0
+1652,Panama,22900,0.0
+1653,Panama,918,0.0
+1654,Panama,0,0.0
+1655,Panama,918,0.0
+1656,Panama,0,0.0
+1657,Panama,0,0.0
+1658,Panama,1908,0.0
+1659,Panama,0,0.0
+1660,Panama,0,0.0
+1661,Panama,321501,0.0
+1662,Panama,2823,0.0
+1663,Panama,0,0.0
+1664,Panama,321501,0.0
+1665,Panama,321501,0.0
+1666,Panama,321501,0.0
+1667,Panama,76815,0.0
+1668,Colombia,4811,0.0
+1669,Mexico,3796,0.0
+1670,Mexico,19092,0.0
+1671,Mexico,18608,0.0
+1672,Mexico,6089,0.0
+1673,Mexico,32415,0.0
+1674,United States,1371,0.0
+1675,United States,5951,0.0
+1676,United States,9614,0.0
+1677,United States,1128,0.0
+1678,United States,51400,0.0
+1679,Canada,519949,0.0
+1680,United States,1241,0.0
+1681,United States,1560,0.0
+1682,United States,939,0.0
+1683,United States,485,0.0
+1684,United States,16887,0.0
+1685,United States,2020,0.0
+1686,United States,2184,0.0
+1687,United States,1646,0.0
+1688,United States,1646,0.0
+1689,United States,51400,0.0
+1690,United States,2406,0.0
+1691,United States,1048,0.0
+1692,United States,2066,0.0
