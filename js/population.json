@@ -1,0 +1,52 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "title": "Global Population in 2020 and Expected Rise by 2021",
+  "width": 800,
+  "height": 600,
+  "data": {
+    "url": "https://raw.githubusercontent.com/farwabraza/homework9/main/js/ne_110m_admin_0_countries.topojson",
+    "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+  },
+  "transform": [
+    {
+      "lookup": "properties.NAME",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/farwabraza/homework9/main/data/population_cleaned.csv"
+        },
+        "key": "Country",
+        "fields": ["Population", "Net", "World_Share"]
+      }
+    },
+    {
+      "calculate": "datum.Net + datum.Population",
+      "as": "Expected Population in 2021"
+    }
+  ],
+  "projection": {"type": "equirectangular"},
+  "mark": {"type": "geoshape"},
+  "encoding": {
+    "color": {
+      "field": "Population",
+      "type": "quantitative",
+      "scale": {
+        "type": "threshold",
+        "domain": [
+          100000,
+          1000000,
+          10000000,
+          100000000,
+          1000000000,
+          10000000000
+        ]
+      }
+    },
+    "tooltip": [
+      {"field": "properties.NAME", "type": "nominal", "title": "Country"},
+      {"field": "Population", "type": "quantitative"},
+      {"field": "World_Share", "type": "quantitative"},
+      {"field": "Expected Population in 2021", "type": "quantitative"}
+    ]
+  },
+  "config": {}
+}
