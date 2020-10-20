@@ -1,5 +1,5 @@
-country,population,rate,net,density,world_share
-China,1438207241,0.39%,5540090,153,18.47%
+country,population_,rate,net,density,world_share
+China,1438207241,0.39,5540090,153,18.47
 India,1377233523,0.99%,13586631,464,17.70%
 United States,330610570,0.59%,1937734,36,4.25%
 Indonesia,272931713,1.07%,2898047,151,3.51%
